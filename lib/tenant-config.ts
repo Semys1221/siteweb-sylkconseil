@@ -14,7 +14,7 @@ export const tenantConfig = {
     badgeText: "Cabinet indépendant",
     ratingText: "4.9/5 avis clients",
   },
-  calendlyUrl: "https://calendly.com/syli-conseils/30min",
+  calendlyUrl: "https://calendly.com/syli-conseils/optimiser-vos-avantages-en-tant-qu-independant-clone",
   linkedinUrl: "https://www.linkedin.com/in/stephane-lawnicki",
 };
 
